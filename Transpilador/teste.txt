@@ -1,0 +1,8 @@
+while(a==b):
+  break
+for a in range(10):
+  a=a
+a=10+10
+b=5
+if(a==b):a=10
+def a():
